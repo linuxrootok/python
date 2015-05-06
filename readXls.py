@@ -1,5 +1,5 @@
 #!coding: utf-8
-#!/bin/ent python
+#!/bin/env python
 import types
 import xlrd 
 import xlwt
